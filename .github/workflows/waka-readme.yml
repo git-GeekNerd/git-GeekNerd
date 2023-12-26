@@ -12,6 +12,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: git-GeekNerd/.github/workflows/waka-readme@master
+      - name: Update WakaTime stats
+        uses: wakatime/update-wakatime-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
