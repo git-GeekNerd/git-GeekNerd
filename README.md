@@ -8,7 +8,7 @@
   <a href="mailto:CodexCodeGeek@outlook.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://discord.com/users/1139606020935667712"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140"></a>
   <a href="https://www.facebook.com/61550483339339"><img src="https://img.shields.io/badge/Facebook-d5d5d5?style=for-the-badge&logo=facebook&logoColor=0A0209" /></a>
-  <a href="https://twitter.com/GitKerMerBer"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" /></a>
+  <a href="https://twitter.com/GitKerMerBer"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=X&logoColor=0A0209" /></a>
 </div>
 
 <br>
